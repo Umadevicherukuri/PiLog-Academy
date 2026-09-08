@@ -1,2 +1,0 @@
-DELETE FROM public.user_roles WHERE user_id = '93bd0bc8-0ee2-492d-8518-f9f1b3983818' AND role IN ('learner','pre_sales_consultant');
-UPDATE public.user_roles SET is_approved = true WHERE user_id = '93bd0bc8-0ee2-492d-8518-f9f1b3983818' AND role = 'governance';

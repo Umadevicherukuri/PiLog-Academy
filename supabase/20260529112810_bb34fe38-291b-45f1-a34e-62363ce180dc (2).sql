@@ -1,2 +1,0 @@
-UPDATE public.user_credits SET balance = balance + 1000, updated_at = now() WHERE user_id = '25394ff4-dc4d-4e5e-9896-ef8f0628064c';
-INSERT INTO public.credit_transactions (user_id, amount, transaction_type, description) VALUES ('25394ff4-dc4d-4e5e-9896-ef8f0628064c', 1000, 'admin_grant', 'Manual admin credit grant: +1000');

@@ -1,1 +1,0 @@
-UPDATE course_lessons SET description = 'Make necessary changes to material master records' WHERE id = 'd5647770-56c7-42ad-ba2c-96bb1759eeac';

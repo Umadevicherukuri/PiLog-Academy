@@ -1,1 +1,0 @@
-UPDATE courses SET image_url = '/lovable-uploads/customer-master-governance-thumbnail.jpg' WHERE id = 11;

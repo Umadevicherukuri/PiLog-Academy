@@ -1,1 +1,0 @@
-DELETE FROM course_lessons WHERE course_id = 2;

@@ -1,2 +1,0 @@
-INSERT INTO course_lessons (course_id, title, description, video_url, lesson_order, video_duration_seconds, credit_cost, is_free)
-VALUES (1, 'Asset Onboarding', 'Learn about asset onboarding processes', 'supabase://course-videos/Asset onboarding.mp4', 10, 363, 100, false);

@@ -1,1 +1,0 @@
-ALTER TABLE public.role_change_history ALTER COLUMN new_role DROP NOT NULL;

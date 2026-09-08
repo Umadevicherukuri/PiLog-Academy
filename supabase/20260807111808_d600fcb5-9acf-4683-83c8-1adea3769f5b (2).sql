@@ -1,1 +1,0 @@
-UPDATE public.course_lessons SET video_url = 'supabase://course-videos/MSS Creation.mp4' WHERE id = '4b88c8e4-e24e-450c-8a5b-ea1b2274d7ff';

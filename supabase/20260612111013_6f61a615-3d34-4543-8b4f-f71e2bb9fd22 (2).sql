@@ -1,1 +1,0 @@
-UPDATE public.course_lessons SET video_url='supabase://course-videos/Data Quality and Governance Suite for Supply Chain and Asset Lifecycle Management at Scale.mp4' WHERE id='138703aa-c4f4-4e0b-9846-7cabcedfb1bd';

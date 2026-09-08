@@ -1,1 +1,0 @@
-UPDATE public.course_lessons SET video_url='supabase://course-videos/OCR Data Extraction to Create Article VIDEO.mp4' WHERE id='2814d8e7-c5fa-40e6-a108-8f46d19fc6b5';

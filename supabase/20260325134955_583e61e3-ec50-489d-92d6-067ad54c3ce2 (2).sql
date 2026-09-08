@@ -1,7 +1,0 @@
-INSERT INTO lesson_quizzes (lesson_id, question, option_a, option_b, option_c, option_d, correct_answer, explanation)
-VALUES
-('07bcb37c-7591-4023-b87d-a43d635fc9a9', 'What is the primary goal of Inventory Optimization?', 'Increase storage cost', 'Reduce stock availability', 'Balance supply and demand efficiently', 'Eliminate suppliers', 'C', 'Inventory optimization ensures the right balance between supply and demand to minimize costs and avoid shortages.'),
-('07bcb37c-7591-4023-b87d-a43d635fc9a9', 'Which factor directly affects inventory levels?', 'Employee salary', 'Weather conditions', 'Demand variability', 'Office location', 'C', 'Demand variability directly impacts how much inventory is required to meet customer needs.'),
-('07bcb37c-7591-4023-b87d-a43d635fc9a9', 'What does safety stock help prevent?', 'Overproduction', 'Stockouts', 'Excess marketing', 'Delayed shipping', 'B', 'Safety stock acts as a buffer to prevent stockouts during unexpected demand or supply delays.'),
-('07bcb37c-7591-4023-b87d-a43d635fc9a9', 'Which method is used to classify inventory based on importance?', 'FIFO method', 'ABC analysis', 'Just-in-Time', 'EOQ model', 'B', 'ABC analysis categorizes inventory into A, B, and C classes based on value and importance.'),
-('07bcb37c-7591-4023-b87d-a43d635fc9a9', 'What happens if inventory is overstocked?', 'Improved efficiency', 'Reduced holding costs', 'Increased carrying costs', 'Faster delivery', 'C', 'Overstocking increases carrying costs such as storage, maintenance, and capital lock-in.');
