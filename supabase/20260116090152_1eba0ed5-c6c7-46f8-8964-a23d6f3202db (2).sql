@@ -1,0 +1,11 @@
+-- Delete related data first, then the courses
+DELETE FROM lesson_completions WHERE course_id IN (57, 58);
+DELETE FROM user_video_activity WHERE course_id IN (57, 58);
+DELETE FROM course_lessons WHERE course_id IN (57, 58);
+DELETE FROM enrolled_courses WHERE course_id IN (57, 58);
+DELETE FROM course_ratings WHERE course_id IN (57, 58);
+DELETE FROM certification_questions WHERE course_id IN (57, 58);
+DELETE FROM certification_attempts WHERE course_id IN (57, 58);
+DELETE FROM course_certificates WHERE course_id IN (57, 58);
+DELETE FROM course_assignments WHERE course_id IN (57, 58);
+DELETE FROM courses WHERE id IN (57, 58);

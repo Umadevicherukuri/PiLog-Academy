@@ -1,0 +1,1 @@
+DELETE FROM course_lessons WHERE id = '4bea79d9-f5aa-418f-ae61-932558c3f62b';
