@@ -1,0 +1,1 @@
+UPDATE public.course_lessons SET video_url = 'supabase://course-videos/Asset Delete and Undelete (1).mp4' WHERE id = 'ee7df973-4c5a-4043-b402-dbb501a33b17';
