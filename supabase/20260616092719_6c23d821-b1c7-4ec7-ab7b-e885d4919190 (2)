@@ -1,0 +1,5 @@
+ALTER TYPE public.app_role ADD VALUE IF NOT EXISTS 'technical_delivery_vp';
+ALTER TYPE public.app_role ADD VALUE IF NOT EXISTS 'senior_technical_architect';
+ALTER TYPE public.app_role ADD VALUE IF NOT EXISTS 'commercial_vp';
+ALTER TYPE public.app_role ADD VALUE IF NOT EXISTS 'sales_presales_manager';
+ALTER TYPE public.app_role ADD VALUE IF NOT EXISTS 'country_manager_brasil';
