@@ -1,0 +1,1 @@
+UPDATE public.user_roles SET is_approved = false WHERE user_id = 'bcb0ffca-d5a7-4d88-96cd-955bec020f03' AND role IN ('approver','requester');
