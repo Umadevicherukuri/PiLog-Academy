@@ -1,0 +1,14 @@
+-- Fix course thumbnail URLs to use proper accessible paths
+UPDATE courses SET image_url = '/lovable-uploads/equipment-governance-thumbnail.jpg' WHERE id = 59;
+UPDATE courses SET image_url = '/lovable-uploads/product-governance-thumbnail.jpg' WHERE id = 60;
+UPDATE courses SET image_url = '/lovable-uploads/data-analytics-thumbnail.jpg' WHERE id = 61;
+UPDATE courses SET image_url = '/lovable-uploads/governance-critical-capabilities-thumbnail.jpg' WHERE id = 62;
+UPDATE courses SET image_url = '/lovable-uploads/taxonomy-thumbnail.jpg' WHERE id = 63;
+UPDATE courses SET image_url = '/lovable-uploads/qc-tools-thumbnail.jpg' WHERE id = 64;
+UPDATE courses SET image_url = '/lovable-uploads/spdp-thumbnail.jpg' WHERE id = 65;
+UPDATE courses SET image_url = '/lovable-uploads/icontent-foundry-thumbnail.jpg' WHERE id = 66;
+UPDATE courses SET image_url = '/lovable-uploads/governance-foundation-thumbnail.jpg' WHERE id = 67;
+UPDATE courses SET image_url = '/lovable-uploads/data-extraction-thumbnail.jpg' WHERE id = 68;
+UPDATE courses SET image_url = '/lovable-uploads/cleansing-seals-thumbnail.jpg' WHERE id = 69;
+UPDATE courses SET image_url = '/lovable-uploads/ispir-management-thumbnail.jpg' WHERE id = 70;
+UPDATE courses SET image_url = '/lovable-uploads/ai-features-thumbnail.jpg' WHERE id = 71;
