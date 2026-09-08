@@ -1,0 +1,1 @@
+UPDATE course_lessons SET duration = '03:36', video_duration_seconds = 216, credit_cost = 50 WHERE course_id = 78 AND lesson_order = 1;
