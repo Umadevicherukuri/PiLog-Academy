@@ -1,0 +1,1 @@
+UPDATE public.courses SET is_active = false WHERE id = 83;

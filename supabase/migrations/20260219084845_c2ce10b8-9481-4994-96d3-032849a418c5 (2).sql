@@ -1,0 +1,2 @@
+UPDATE public.courses SET image_url = '/lovable-uploads/wildfly-config-thumbnail.jpg' WHERE id = 86;
+UPDATE public.courses SET image_url = '/lovable-uploads/linux-installation-thumbnail.jpg' WHERE id = 87;

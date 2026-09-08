@@ -1,0 +1,1 @@
+INSERT INTO public.user_credits (user_id, balance) VALUES ('2a543cad-64ac-4bc5-9547-b0252786af20', 1000) ON CONFLICT (user_id) DO UPDATE SET balance = 1000, updated_at = now();

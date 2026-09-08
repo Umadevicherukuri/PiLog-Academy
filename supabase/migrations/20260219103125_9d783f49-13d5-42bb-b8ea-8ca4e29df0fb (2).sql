@@ -1,0 +1,1 @@
+UPDATE public.course_lessons SET description = 'Learn how DQGS integrates with SAP S/4HANA and APM using Smart RDS for streamlined asset management.' WHERE id = '207582d7-f94d-4da8-82fb-bc3fd799a0f0';

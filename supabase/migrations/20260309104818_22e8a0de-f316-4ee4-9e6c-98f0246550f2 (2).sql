@@ -1,0 +1,1 @@
+UPDATE course_lessons SET video_duration_seconds = 108 WHERE id = '3c9b3495-66ef-45ee-b068-ce752f55e08e';

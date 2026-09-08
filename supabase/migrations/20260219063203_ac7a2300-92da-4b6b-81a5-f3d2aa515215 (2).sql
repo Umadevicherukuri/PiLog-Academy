@@ -1,0 +1,1 @@
+UPDATE course_lessons SET video_url = 'supabase://course-videos/Material Master Change.mp4' WHERE id = 'd5647770-56c7-42ad-ba2c-96bb1759eeac';

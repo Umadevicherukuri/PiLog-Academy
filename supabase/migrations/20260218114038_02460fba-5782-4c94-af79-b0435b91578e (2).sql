@@ -1,0 +1,1 @@
+UPDATE course_lessons SET video_duration_seconds = 416, credit_cost = 100 WHERE id = '51c470fd-f9c6-46cd-9165-55783d450f71';
