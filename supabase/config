@@ -1,0 +1,62 @@
+project_id = "ywpwcfikkjbxbjdlakfj"
+
+# All functions require JWT verification in code
+[functions.chatbot]
+verify_jwt = false
+
+[functions.text-to-voice]
+verify_jwt = false
+
+[functions.voice-to-text]
+verify_jwt = false
+
+[functions.realtime-voice]
+verify_jwt = false
+
+[functions.send-password-reset-otp]
+verify_jwt = false
+
+[functions.verify-password-reset-otp]
+verify_jwt = false
+
+[functions.notify-admin-user-signup]
+verify_jwt = false
+
+[functions.handle-user-approval-action]
+verify_jwt = false
+
+[functions.admin-set-user-password]
+verify_jwt = false
+
+[functions.deduct-video-credits]
+verify_jwt = false
+
+[functions.generate-signed-video-url]
+verify_jwt = false
+
+[functions.imirai-chat]
+verify_jwt = false
+
+[functions.sso-callback]
+verify_jwt = false
+
+[functions.send-contact-message]
+verify_jwt = false
+
+# Admin-only; JWT + admin role are validated inside the function.
+[functions.access-expiry-backfill]
+verify_jwt = false
+
+# Admin-only; generates and validates lesson quiz questions via Lovable AI Gateway.
+[functions.generate-lesson-quiz]
+verify_jwt = false
+
+
+# Admin-only; audits and migrates existing quiz questions (JWT + admin role checked in code).
+[functions.quiz-quality-migration]
+verify_jwt = false
+
+# Admin-only; manages persistent lesson source content and video transcription
+# (JWT + admin role are validated inside the function).
+[functions.lesson-source]
+verify_jwt = false
